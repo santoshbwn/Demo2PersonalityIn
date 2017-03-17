@@ -19,56 +19,7 @@
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-	<div class="row service-container">
-		<div class="col-lg-12 service-header">
-			<div class="row top-nav navbar-fixed-top">
-				<div class="container">
-					<a
-						href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/"
-						class="top-nav--logo-link"><h3 class="heading left">
-							IBM <span class="top-nav--logo-wdc">Watson Developer Cloud</span>
-						</h3></a>
-					<nav class="top-nav--nav">
-						<li class="top-nav--nav-item"><a
-							href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/services-catalog.html"><fmt:message key="application.label.services"/></a></li>
-						<li class="top-nav--nav-item"><a
-							href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/"><fmt:message key="application.label.docs"/></a></li>
-						<li class="top-nav--nav-item"><a
-							href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/gallery.html"><fmt:message key="application.label.appGallery"/></a></li>
-						<li class="top-nav--nav-item"><a
-							href="https://developer.ibm.com/watson/"><fmt:message key="application.label.community"/></a></li>
-					</nav>
-				</div>
-			</div>
-			<div class="row header">
-				<div class="container">
-					<div
-						class="avatar img-container col-lg-2 col-md-2 col-sm-2 hidden-xs">
-						<img src="images/app.png" class="service-icon">
-					</div>
-					<div
-						class="col-lg-10 col-md-10 col-sm-10 col-xs-12 dialog-description">
-						<h1 style="font-size: 50px;" class="service-title"><fmt:message key="application.name"/></h1>
-						<p><fmt:message key="service.description"/></p>
-						<div class="resource">
-							<img src="images/link.svg" class="link-icon"><strong><fmt:message key="application.label.resources"/>:</strong>
-						</div>
-						<div class="resource-item-container">
-							<a
-								href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/personality-insights/api"
-								class="resource-item"><fmt:message key="application.label.apiReference"/></a><a
-								href="http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/personality-insights/"
-								class="resource-item"><fmt:message key="application.label.documentation"/></a><a
-								href="https://github.com/watson-developer-cloud/personality-insights-java"
-								class="resource-item"><fmt:message key="application.label.githubFork"/></a><a
-								href="https://bluemix.net/deploy?repository=https://github.com/watson-developer-cloud/personality-insights-java.git"
-								class="resource-item"><fmt:message key="application.label.bluemixForkAndDeploy"/></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-6 col-md-12 col-xs-12">
